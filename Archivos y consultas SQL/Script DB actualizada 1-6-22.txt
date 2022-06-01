@@ -53,7 +53,7 @@ Cantidad char(8) NOT NULL,
 
 
 CREATE TABLE Productos (
-		Cod_Art_Pro varchar(50) NOT NULL,
+		Cod_Art_Pro int identity,
 		PU_Pro DECIMAL(8,2) DEFAULT '0,00',
 		Stock int  NOT NULL,
 		Categoria char(8) not null,
@@ -91,7 +91,6 @@ go
 	CREATE PROCEDURE spinsertarprod
 	(
 @PU_Pro Decimal,
-@Cod_art_pro varchar(50),
 @stock int,
 @categoria char(30),
 @descripcion varchar(30),
@@ -101,7 +100,6 @@ AS
 INSERT INTO Productos
 (
 PU_Pro,
-Cod_Art_Pro,
 Stock,
 Categoria,
 Descripcion,
@@ -110,7 +108,6 @@ url
 VALUES
 (
 @PU_Pro,
-@Cod_art_pro,
 @stock,
 @categoria,
 @descripcion,
@@ -176,7 +173,7 @@ go
 
 create procedure spEliminarProducto
 (
-@Cod_Art_Pro char(8)
+@Cod_Art_Pro int
 )
 AS
 DELETE FROM Productos
@@ -186,7 +183,7 @@ return
 
 create procedure spEliminarProducto
 (
-@Cod_Art_Pro varchar(50)
+@Cod_Art_Pro int
 )
 AS
 DELETE FROM Productos
@@ -195,7 +192,7 @@ return
 
 create procedure spActualizarProducto
 (
-@Cod_Art_Pro varchar (50),
+@Cod_Art_Pro int,
 @PU_Pro Decimal (8,2) null,
 @Stock int,
 @Categoria char(8),

@@ -36,7 +36,7 @@ namespace Vistas.YaMaquetado
     
 
             Boolean estado = false;
-        estado = neg.agregarCliente(txtDni.Text, txtNombre.Text, txtApellido.Text, txtDireccion.Text, ddlGenero.Text , txtAlias.Text, txtCorreo.Text);
+            estado = neg.agregarCliente(txtDni.Text, txtNombre.Text, txtApellido.Text, txtDireccion.Text, ddlGenero.Text , txtAlias.Text, txtCorreo.Text);
 
      
             Boolean estado2 = false;

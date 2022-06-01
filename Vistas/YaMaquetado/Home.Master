@@ -32,10 +32,10 @@
                 <a class="nav-link" href="Franquisias.aspx">Franquicias</a>
               </li>
               <li class="nav-item">
-                 <a class="nav-link" href="Logiin.aspx">Registrate</a>
+                 <a class="nav-link" href="Logiin.aspx">Iniciar Sesion</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Productoss.aspx">Productos</a>
+                <%--  <a class="nav-link" href="Productoss.aspx">Productos</a> --%>
               </li>
             </ul>
           <%--</div>--%>

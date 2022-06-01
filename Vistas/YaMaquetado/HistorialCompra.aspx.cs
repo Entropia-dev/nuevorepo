@@ -7,18 +7,11 @@ using System.Web.UI.WebControls;
 
 namespace Vistas.YaMaquetado
 {
-    public partial class Home : System.Web.UI.MasterPage
+    public partial class HistorialCompra : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (Session["Alias"] != null)
-            {
-                // hay informacion en la variable session
 
-                lblUsuario.Text = Session["Alias"].ToString();
-
-
-            }
         }
     }
 }

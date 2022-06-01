@@ -31,10 +31,10 @@
                 <a class="nav-link" href="#">Mis compras</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Cambiar contraseña</a>
+                <a class="nav-link" href="ModificaContraseña.aspx">Cambiar contraseña</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Franquisias.aspx">Ver carrito</a>
+                <a class="nav-link" href="CarritoCompra.aspx">Ver carrito</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="Logiin.aspx">Solicitar un presupuesto</a>
