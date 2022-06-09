@@ -18,7 +18,7 @@
             <br />
          <asp:RequiredFieldValidator ErrorMessage="Ingrese su genero" ControlToValidate="ddlGenero"  InitialValue="-Ingrese su genero-" runat="server"  /></div>    
             <br />
-            <div class="form"><asp:TextBox ID="txtAlias" runat="server" class="form-control" placeholder="Alias" type="text"></asp:TextBox><asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ControlToValidate="txtAlias" ErrorMessage="Complete su alias"></asp:RequiredFieldValidator></div>
+           <div class="form"><asp:TextBox ID="txtAlias" runat="server" class="form-control" placeholder="Alias" type="text"></asp:TextBox><asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ControlToValidate="txtAlias" ErrorMessage="Complete su alias"></asp:RequiredFieldValidator></div>
         <div class="form"><asp:TextBox ID="txtDni" runat="server" class="form-control" placeholder="Documento" type="number"></asp:TextBox><asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" ControlToValidate="txtDni" ErrorMessage="Complete su dni"></asp:RequiredFieldValidator></div>
         <div class="form"><asp:TextBox ID="txtCorreo" runat="server" class="form-control" placeholder="mail@mail.com" type="email"></asp:TextBox><asp:RequiredFieldValidator ID="RequiredFieldValidator6" runat="server" ControlToValidate="txtCorreo" ErrorMessage="Complete su correo"></asp:RequiredFieldValidator></div>
         <div class="form"><asp:TextBox ID="txtDireccion" runat="server" class="form-control" placeholder="Direccion 123" type="text"></asp:TextBox><asp:RequiredFieldValidator ID="RequiredFieldValidator7" runat="server" ControlToValidate="txtDireccion" ErrorMessage="Complete su direccion"></asp:RequiredFieldValidator></div>
