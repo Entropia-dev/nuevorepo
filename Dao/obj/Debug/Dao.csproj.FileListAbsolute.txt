@@ -70,3 +70,12 @@ D:\Descargas\TFinal_L3_Maquetado-main\TrabajoFinal\Trabajo_15_9_21\Dao\obj\Debug
 D:\Descargas\TFinal_L3_Maquetado-main\TrabajoFinal\Trabajo_15_9_21\Dao\obj\Debug\Dao.csproj.CopyComplete
 D:\Descargas\TFinal_L3_Maquetado-main\TrabajoFinal\Trabajo_15_9_21\Dao\obj\Debug\Dao.dll
 D:\Descargas\TFinal_L3_Maquetado-main\TrabajoFinal\Trabajo_15_9_21\Dao\obj\Debug\Dao.pdb
+D:\Github\ReinicioTP\nuevorepo\Dao\bin\Debug\Dao.dll
+D:\Github\ReinicioTP\nuevorepo\Dao\bin\Debug\Dao.pdb
+D:\Github\ReinicioTP\nuevorepo\Dao\bin\Debug\Entidades.dll
+D:\Github\ReinicioTP\nuevorepo\Dao\bin\Debug\Entidades.pdb
+D:\Github\ReinicioTP\nuevorepo\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+D:\Github\ReinicioTP\nuevorepo\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+D:\Github\ReinicioTP\nuevorepo\Dao\obj\Debug\Dao.csproj.CopyComplete
+D:\Github\ReinicioTP\nuevorepo\Dao\obj\Debug\Dao.dll
+D:\Github\ReinicioTP\nuevorepo\Dao\obj\Debug\Dao.pdb

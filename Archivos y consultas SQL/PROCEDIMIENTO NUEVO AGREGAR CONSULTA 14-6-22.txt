@@ -1,0 +1,25 @@
+CREATE PROCEDURE spinsertarConsulta
+	(
+@alias varchar(50),
+@telefono varchar(50),
+@localidad varchar(50),
+@email varchar(50),
+@consulta varchar(500)
+)
+AS
+INSERT INTO Presupuestos
+(
+Alias,
+Telefono,
+Localidad,
+Email,
+Consulta
+)
+VALUES
+(
+@alias,
+@telefono,
+@localidad,
+@email,
+@consulta
+)go

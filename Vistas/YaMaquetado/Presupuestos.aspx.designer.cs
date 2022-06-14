@@ -60,13 +60,13 @@ namespace Vistas.YaMaquetado
         protected global::System.Web.UI.WebControls.TextBox txtConsulta;
 
         /// <summary>
-        /// Control btnIngresar.
+        /// Control btnPresupuesto.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnIngresar;
+        protected global::System.Web.UI.WebControls.Button btnPresupuesto;
 
         /// <summary>
         /// Control lblMensaje.

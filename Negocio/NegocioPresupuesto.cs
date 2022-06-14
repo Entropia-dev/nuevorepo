@@ -8,27 +8,27 @@ using Entidades;
 
 namespace Negocio
 {
-    class NegocioPresupuesto
+    public class NegocioPresupuesto
     {
 
-        public Boolean atalaPresupuesto(float pu)
-        {
-            return true;
-        }
+     
 
-        public bool agregarPresupuesto(string alias, string telefono, string localidad, string email, string consulta)
+
+        public bool agregarPresupuesto(string alias, string telefono_fijo, string localidad, string email, string consulta)
         {
-            int cant_filas = 0;
-            Presupuestos pre = new Presupuestos();
-            pre.set_nombre(alias);
-            pre.set_telefono_fijo(telefono);
-            pre.set_localidad(localidad);
-            pre.set_email(email);
-            pre.set_consulta(consulta);
+            int cant_flias = 0;
+            Presupuestos pres = new Presupuestos();
+            pres.set_alias(alias);
+            pres.set_telefono(telefono_fijo);
+            pres.set_localidad(localidad);
+            pres.set_email(email);
+            pres.set_consulta(consulta);
 
             
-
-            return true;
+            DaoPresupuestos dao = new DaoPresupuestos();
+            cant_flias = dao.agregarPresupuesto(pres);
+            if(cant_flias == 1) { return true; }
+            else return false;
         }
 
     }

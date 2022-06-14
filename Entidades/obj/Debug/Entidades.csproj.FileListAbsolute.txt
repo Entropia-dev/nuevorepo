@@ -34,3 +34,9 @@ D:\Descargas\TFinal_L3_Maquetado-main\TrabajoFinal\Trabajo_15_9_21\Entidades\obj
 D:\Descargas\TFinal_L3_Maquetado-main\TrabajoFinal\Trabajo_15_9_21\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\Descargas\TFinal_L3_Maquetado-main\TrabajoFinal\Trabajo_15_9_21\Entidades\obj\Debug\Entidades.dll
 D:\Descargas\TFinal_L3_Maquetado-main\TrabajoFinal\Trabajo_15_9_21\Entidades\obj\Debug\Entidades.pdb
+D:\Github\ReinicioTP\nuevorepo\Entidades\bin\Debug\Entidades.dll
+D:\Github\ReinicioTP\nuevorepo\Entidades\bin\Debug\Entidades.pdb
+D:\Github\ReinicioTP\nuevorepo\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Github\ReinicioTP\nuevorepo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Github\ReinicioTP\nuevorepo\Entidades\obj\Debug\Entidades.dll
+D:\Github\ReinicioTP\nuevorepo\Entidades\obj\Debug\Entidades.pdb

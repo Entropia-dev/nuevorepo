@@ -10,10 +10,10 @@
         <div class="form"><asp:TextBox ID="txtTelefono" runat="server" class="form-control" placeholder="Tel: 1111-2222" type="phone"></asp:TextBox></div>
         <div class="form"><asp:TextBox ID="txtLocalidad" runat="server" class="form-control" placeholder="Localidad" type="text"></asp:TextBox></div>
         <div class="form"><asp:TextBox ID="txtMail" runat="server" class="form-control" placeholder="Email@mail.com" type="email"></asp:TextBox></div>
-        <div class="form"><asp:DropDownList ID="ddlNose" runat="server" class="form-select"></asp:DropDownList></div>
+        <div class="form"></div>
         <div class="form"><asp:TextBox ID="txtConsulta" runat="server" class="form-control" placeholder="Consulta?" type="text"></asp:TextBox></div>
 
-        <asp:Button ID="btnIngresar" runat="server" Text="Enviar consulta" class="w-100 btn btn-lg btn-primary mt-3" />
+        <asp:Button ID="btnPresupuesto" runat="server" Text="Enviar consulta" class="w-100 btn btn-lg btn-primary mt-3" OnClick="btnIngresar_Click1" />
         <asp:Label ID="lblMensaje" runat="server"></asp:Label>
         </div>
         <div class="col"></div>

@@ -86,3 +86,14 @@ D:\Descargas\TFinal_L3_Maquetado-main\TrabajoFinal\Trabajo_15_9_21\Negocio\obj\D
 D:\Descargas\TFinal_L3_Maquetado-main\TrabajoFinal\Trabajo_15_9_21\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 D:\Descargas\TFinal_L3_Maquetado-main\TrabajoFinal\Trabajo_15_9_21\Negocio\obj\Debug\Negocio.dll
 D:\Descargas\TFinal_L3_Maquetado-main\TrabajoFinal\Trabajo_15_9_21\Negocio\obj\Debug\Negocio.pdb
+D:\Github\ReinicioTP\nuevorepo\Negocio\bin\Debug\Negocio.dll
+D:\Github\ReinicioTP\nuevorepo\Negocio\bin\Debug\Negocio.pdb
+D:\Github\ReinicioTP\nuevorepo\Negocio\bin\Debug\Dao.dll
+D:\Github\ReinicioTP\nuevorepo\Negocio\bin\Debug\Entidades.dll
+D:\Github\ReinicioTP\nuevorepo\Negocio\bin\Debug\Dao.pdb
+D:\Github\ReinicioTP\nuevorepo\Negocio\bin\Debug\Entidades.pdb
+D:\Github\ReinicioTP\nuevorepo\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Github\ReinicioTP\nuevorepo\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Github\ReinicioTP\nuevorepo\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Github\ReinicioTP\nuevorepo\Negocio\obj\Debug\Negocio.dll
+D:\Github\ReinicioTP\nuevorepo\Negocio\obj\Debug\Negocio.pdb
