@@ -16,15 +16,15 @@ namespace Dao
         private void ArmarParametrosPrepuestoAgregar(ref SqlCommand Comando,Presupuestos pre)
         {
             SqlParameter SqlParametros = new SqlParameter();
-            SqlParametros = Comando.Parameters.Add(" @alias ", SqlDbType.VarChar);
+            SqlParametros = Comando.Parameters.Add("@alias", SqlDbType.VarChar);
             SqlParametros.Value = pre.get_alias();
-            SqlParametros = Comando.Parameters.Add(" @telefono ", SqlDbType.VarChar);
+            SqlParametros = Comando.Parameters.Add("@telefono", SqlDbType.VarChar);
             SqlParametros.Value = pre.get_telefono();
-            SqlParametros = Comando.Parameters.Add(" @localidad ", SqlDbType.VarChar);
+            SqlParametros = Comando.Parameters.Add("@localidad", SqlDbType.VarChar);
             SqlParametros.Value = pre.get_Localidad();
-            SqlParametros = Comando.Parameters.Add(" @email ", SqlDbType.VarChar);
+            SqlParametros = Comando.Parameters.Add("@email", SqlDbType.VarChar);
             SqlParametros.Value = pre.get_email();
-            SqlParametros = Comando.Parameters.Add(" @consulta ", SqlDbType.VarChar);
+            SqlParametros = Comando.Parameters.Add("@consulta", SqlDbType.VarChar);
             SqlParametros.Value = pre.get_consulta();
         }
 
