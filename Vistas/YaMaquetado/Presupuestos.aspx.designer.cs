@@ -7,11 +7,13 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace Vistas.YaMaquetado {
-    
-    
-    public partial class Presupuestos {
-        
+namespace Vistas.YaMaquetado
+{
+
+
+    public partial class Presupuestos
+    {
+
         /// <summary>
         /// Control txtAlias.
         /// </summary>
@@ -20,7 +22,7 @@ namespace Vistas.YaMaquetado {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtAlias;
-        
+
         /// <summary>
         /// Control txtTelefono.
         /// </summary>
@@ -29,7 +31,7 @@ namespace Vistas.YaMaquetado {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtTelefono;
-        
+
         /// <summary>
         /// Control txtLocalidad.
         /// </summary>
@@ -38,7 +40,7 @@ namespace Vistas.YaMaquetado {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtLocalidad;
-        
+
         /// <summary>
         /// Control txtMail.
         /// </summary>
@@ -47,16 +49,7 @@ namespace Vistas.YaMaquetado {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtMail;
-        
-        /// <summary>
-        /// Control ddlNose.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlNose;
-        
+
         /// <summary>
         /// Control txtConsulta.
         /// </summary>
@@ -65,7 +58,7 @@ namespace Vistas.YaMaquetado {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtConsulta;
-        
+
         /// <summary>
         /// Control btnIngresar.
         /// </summary>
@@ -74,7 +67,7 @@ namespace Vistas.YaMaquetado {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnIngresar;
-        
+
         /// <summary>
         /// Control lblMensaje.
         /// </summary>

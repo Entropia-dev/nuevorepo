@@ -10,88 +10,62 @@ namespace Entidades
     {
         //escribo todos los campos que va a tener la entidad.
 
-        string nombre;//completado
+        string alias;//completado
         string telefono_fijo;//completado
-        string celular;//completado
+        string localidad;//completado
         string email;//completado
         string consulta;//completado
-        string url;//completado
-        string localidad;
-        int ID;
-
 
         //declaro un constructor vacio.
         public Presupuestos() { }
 
-        public void set_ID(int id)
-        {
-            this.ID = id;
+        //sets y gets
+
+        public void set_alias(string alias) {
+            this.alias = alias;
         }
 
-        public int get_ID()
+        public string get_alias()
         {
-            return this.ID;
+            return this.alias;
         }
 
+        public void set_telefono(string telefono) {
+            this.telefono_fijo = telefono;
+        }
 
-        public void set_localidad (string localidad)
+        public string get_telefono() {
+            return this.telefono_fijo;
+        }
+
+        public void set_localidad(string localidad)
         {
             this.localidad = localidad;
         }
 
-        public string get_localidad()
-        {
+        public string get_Localidad() {
             return this.localidad;
         }
 
-        public void set_url(string new_url)
+        public void set_email(string email)
         {
-            this.url = new_url;
-        }
-
-        public string get_url()
-        {
-            return this.url;
-        }
-
-        public void set_nombre(string nuevo_nombre)
-        {
-            this.nombre = nuevo_nombre;
-        }
-
-        public string get_nombre()
-        {
-            return this.nombre;
-        }
-
-        public void set_telefono_fijo(string nuevo_telefono_fijo)
-        {
-            this.telefono_fijo = nuevo_telefono_fijo;
-        }
-
-        public string get_telefono_fijo()
-        {
-            return this.telefono_fijo;
-        }
-
-        public void set_email(string nuevo_email)
-        {
-            this.email = nuevo_email;
+            this.email = email;
         }
 
         public string get_email()
         {
             return this.email;
-        }
+        } 
 
-        public void set_consulta(string nueva_consulta)
+        public void set_consulta(string consulta)
         {
-            this.consulta = nueva_consulta;
+           this.consulta = consulta;
         }
 
-        public string get_consulta()
+        public String get_consulta()
         {
             return this.consulta;
         }
+
     }
 }
