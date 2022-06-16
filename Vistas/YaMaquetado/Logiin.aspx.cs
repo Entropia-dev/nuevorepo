@@ -46,7 +46,7 @@ namespace Vistas.YaMaquetado
                     Response.Redirect("AdminProductos.aspx");
                 }
                 if (nivel == false) {
-                    Response.Redirect("Index.aspx");
+                    Response.Redirect("HomeCuenta.aspx");
                 }
             }
             else

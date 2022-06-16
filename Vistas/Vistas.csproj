@@ -158,6 +158,13 @@
     <Compile Include="YaMaquetado\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
+    <Compile Include="YaMaquetado\HomeCuenta.aspx.cs">
+      <DependentUpon>HomeCuenta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YaMaquetado\HomeCuenta.aspx.designer.cs">
+      <DependentUpon>HomeCuenta.aspx</DependentUpon>
+    </Compile>
     <Compile Include="YaMaquetado\ModificaContraseña.aspx.cs">
       <DependentUpon>ModificaContraseña.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -312,6 +319,7 @@
     <Content Include="YaMaquetado\Logiin.aspx" />
     <Content Include="YaMaquetado\Franquisia.aspx" />
     <Content Include="YaMaquetado\Index.aspx" />
+    <Content Include="YaMaquetado\HomeCuenta.aspx" />
     <Content Include="YaMaquetado\ModificaContraseña.aspx" />
     <Content Include="YaMaquetado\Presupuestos.aspx" />
     <Content Include="YaMaquetado\Productoss.aspx" />
