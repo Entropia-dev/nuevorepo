@@ -130,6 +130,13 @@
     <Compile Include="YaMaquetado\HistorialCompra.aspx.designer.cs">
       <DependentUpon>HistorialCompra.aspx</DependentUpon>
     </Compile>
+    <Compile Include="YaMaquetado\Pantalla de cierre.aspx.cs">
+      <DependentUpon>Pantalla de cierre.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YaMaquetado\Pantalla de cierre.aspx.designer.cs">
+      <DependentUpon>Pantalla de cierre.aspx</DependentUpon>
+    </Compile>
     <Compile Include="YaMaquetado\Logiin.aspx.cs">
       <DependentUpon>Logiin.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -316,6 +323,7 @@
     <Content Include="YaMaquetado\AdminVentas.aspx" />
     <Content Include="YaMaquetado\CarritoCompra.aspx" />
     <Content Include="YaMaquetado\HistorialCompra.aspx" />
+    <Content Include="YaMaquetado\Pantalla de cierre.aspx" />
     <Content Include="YaMaquetado\Logiin.aspx" />
     <Content Include="YaMaquetado\Franquisia.aspx" />
     <Content Include="YaMaquetado\Index.aspx" />
