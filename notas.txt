@@ -1,0 +1,4 @@
+el carrito puede ser funcional sin estar logueado.
+lo que no se va a poder hacer es procesar la compra sin que este logueado.
+usar cookies para usar el carrito de compras , sesion o aplicacion.
+listar ventas en amdin por prod o por fechas.
