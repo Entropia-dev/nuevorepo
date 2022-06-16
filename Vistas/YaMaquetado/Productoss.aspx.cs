@@ -7,6 +7,10 @@ using System.Web.UI.WebControls;
 
 namespace Vistas.YaMaquetado
 {
+
+    //rellenar las grid view con un metodo para cargar listas enviando desde el negocio al dao "listas de productos llevando el query y el dao consultando
+    //y devuelve un data set o un table y negocio devuelve a vistas
+
     public partial class Productoss : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
@@ -24,7 +28,7 @@ namespace Vistas.YaMaquetado
         protected void Button5_Click(object sender, EventArgs e)
         {
             //Boton buscar
-
+            //si se busca volver a mostrar la tabla original que trae todos los datos. 
             ListView1.Visible = false;
             ListView2.Visible = true;
             //tengo que tomar la busqueda y enviarla a negocio y de negocio a dao y traer devuelta todo.
