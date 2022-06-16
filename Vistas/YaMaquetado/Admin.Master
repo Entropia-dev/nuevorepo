@@ -39,9 +39,9 @@
                 <a class="nav-link" href="#">Configuraciones</a>
               </li>
               <li class="nav-item">
-                  <%--<a class="nav-link" href="Productoss.aspx">Cerrar sesion</a>--%>             
-                  
+                  <%--<a class="nav-link" href="Productoss.aspx">Cerrar sesion</a>--%>                  
                <%--    <asp:Button ID="Button4" runat="server" Height="35px" Text="Cerrar Sesion" Width="252px" class="nav-link" OnClick="Button4_Click"/> --%>
+                  <asp:Button ID="btn_sesion" runat="server" OnClick="Button1_Click" Text="Cerrar sesion" Width="201px" />
               
               
               </li>

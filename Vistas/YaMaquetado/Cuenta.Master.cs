@@ -23,7 +23,7 @@ namespace Vistas.YaMaquetado
         protected void Button4_Click(object sender, EventArgs e)
         {
             Session["Alias"] = null;
-            Response.Redirect("");
+            Response.Redirect("Pantalla de cierre.aspx");
         }
     }
 }
