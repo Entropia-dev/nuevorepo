@@ -21,6 +21,7 @@ namespace Vistas.YaMaquetado
 
         protected void btnRegistrar_Click(object sender, EventArgs e)
         {
+         
             //hay que validar que el correo electronico no este en uso por que sino crashea.
 
 
@@ -43,10 +44,11 @@ namespace Vistas.YaMaquetado
             estado2 = neg2.agregarcuentas(txtCorreo.Text, txtContraseña.Text, txtDni.Text, txtAlias.Text);
             if (estado2 == true && estado == true && flag == 0)
             {
-                lblMensaje.Text = "completado con exito";
-                Session["Alias"] = txtAlias;
+                lblMensaje.Text = "completado con exito , sera redirigido en 5 segundos espere por favor";
 
-                Response.Redirect("Logiin.aspx");
+                Response.AddHeader("REFRESH", "5;URL=Logiin.aspx");
+
+             
             }
             else
             {
