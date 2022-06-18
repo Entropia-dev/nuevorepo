@@ -29,7 +29,13 @@ namespace Vistas.YaMaquetado
         {
             //Boton buscar
             //si se busca volver a mostrar la tabla original que trae todos los datos. 
-            ListView1.Visible = false;
+       
+            if (txtProductos.Text == "")
+            {
+                ListView1.Visible = true;
+                ListView2.Visible = false;
+            }
+            else ListView1.Visible = false;
             ListView2.Visible = true;
             //tengo que tomar la busqueda y enviarla a negocio y de negocio a dao y traer devuelta todo.
 
