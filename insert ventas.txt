@@ -1,0 +1,51 @@
+--INSERTA LAS VENTAS SIN PRODUCTOS
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (1 , 100.99 , 'juancito', '20100210 12:30:00' )
+
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (2 , 100.99 , 'juancito', '20100210 12:30:00' )
+
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (3 , 100.99 , 'juancito', '20100210 13:30:00' )
+
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (4 , 100.99 , 'juancito', '20100210 14:30:00' )
+
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (5 , 100.99 , 'juancito', '20100210 15:30:00' )
+
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (6 , 100.99 , 'juancito', '20100310 12:30:00' )
+
+
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (7 , 100.99 , 'juancito', '20100310 12:30:00' )
+
+
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (8 , 100.99 , 'juancito', '20100310 12:30:00' )
+
+
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (9 , 100.99 , 'juancito', '20100310 12:30:00' )
+
+
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (10 , 100.99 , 'juancito', '20100310 12:30:00' )
+
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (11 , 100.99 , 'carlitos', '20100410 12:30:00' )
+
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (12 , 100.99 , 'carlitos', '20100410 12:30:00' )
+
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (13 , 100.99 , 'carlitos', '20100410 12:30:00' )
+
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (14 , 100.99 , 'carlitos', '20100410 12:30:00' )
+
+insert into Ventas ("id_venta" , "Total" ,"Alias" , Fecha)
+values (15 , 100.99 , 'carlitos', '20100410 12:30:00' )
+
+--INSERTA LOS PRODUCTOS DE 
