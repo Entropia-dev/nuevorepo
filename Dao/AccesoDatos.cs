@@ -9,16 +9,21 @@ using Entidades;
 
 namespace Dao
 {
-    class AccesoDatos
+    public class AccesoDatos
     {
         String rutaBDAyti = @"Data Source=localhost\sqlexpress;Initial Catalog=Revestimientoayt;Integrated Security=True";
-   
+
+        public string getCadenaConexion() {
+            return rutaBDAyti;
+        }
+
+
         public AccesoDatos()
         {
             // TODO: Agregar aquí la lógica del constructor
         }
 
-        private SqlConnection ObtenerConexion()
+        public SqlConnection ObtenerConexion()
         {
             SqlConnection cn = new SqlConnection(rutaBDAyti);
             try
@@ -98,10 +103,7 @@ namespace Dao
             return max;
         }
 
-        public DataTable ObtenerTodosLosProductos()
-        {
-            return ObtenerTabla("Productos", "Select * From Productos");
-        }
+      
 
     }
 

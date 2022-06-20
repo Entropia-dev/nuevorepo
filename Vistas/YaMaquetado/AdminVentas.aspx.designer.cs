@@ -7,27 +7,20 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace Vistas.YaMaquetado {
-    
-    
-    public partial class AdminVentas {
-        
+namespace Vistas.YaMaquetado
+{
+
+
+    public partial class AdminVentas
+    {
+
         /// <summary>
-        /// Control ListView1.
+        /// Control grdventas2.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ListView ListView1;
-        
-        /// <summary>
-        /// Control Conector_ventas.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.SqlDataSource Conector_ventas;
+        protected global::System.Web.UI.WebControls.GridView grdventas2;
     }
 }
