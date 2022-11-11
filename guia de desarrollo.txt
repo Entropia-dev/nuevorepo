@@ -34,5 +34,7 @@ sentencia sql para poder buscar productos.
 
 SELECT * FROM demo WHERE hint LIKE '%d%';
 
-Se utiliza primero select * (all) FROM (nombre de la tabla) demo WHERE hint (donde en hint se encuentre) un titulo que en algun lado contenga la letra
-"D"
+Se utiliza primero select * (all) FROM (nombre de la tabla) demo WHERE hint (donde en hint se encuentre) un titulo que en algun lado contenga la letra "D"
+______________________________________
+prueba de modificar el texto desde git
+______________________________________

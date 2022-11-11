@@ -1,0 +1,111 @@
+[33mcommit a1109dbba0f8cf227123306d7e1ffcfe016bdcff[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Mon Jun 20 16:42:45 2022 -0300
+
+    grdventas en capas
+
+[33mcommit 22d4de0f11732fa5267ede1fdf9ec72c5ce0682a[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Sat Jun 18 18:05:02 2022 -0300
+
+    insertadas ventas sin historial
+
+[33mcommit 75956d450333057c7284ce37ae891c136765deac[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Sat Jun 18 17:36:20 2022 -0300
+
+    buscador fixeado
+
+[33mcommit 88d9f90759e74ca00643de3b7ba0253072e8ccca[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Thu Jun 16 19:45:30 2022 -0300
+
+    Create notas.txt
+
+[33mcommit 8b6422fb7de08145cdcaac464ec66f13bc99d509[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Thu Jun 16 19:45:00 2022 -0300
+
+    comentarios nuevos
+
+[33mcommit cbc4a4462024a217af4625528bbdf7d656a03215[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Thu Jun 16 18:55:16 2022 -0300
+
+    ghost
+
+[33mcommit 1a80e991d6fa5c7c87cf3051e8f1887970e6faed[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Thu Jun 16 16:25:08 2022 -0300
+
+    Mensaje de exito al registrarse
+
+[33mcommit 827dc18319470158ecfc8350b42fdef4601b4507[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Thu Jun 16 16:13:34 2022 -0300
+
+    Cierre de sesion admin completo
+
+[33mcommit 01537282e7161a8e61a5c86250a43b7eb9811daa[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Thu Jun 16 16:08:46 2022 -0300
+
+    Agregada pantalla al momento de cerrar sesion usuario
+
+[33mcommit b59e0e470617a551da9f5b58b97a3bfe7feb93fa[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Thu Jun 16 15:47:04 2022 -0300
+
+    agrego landing page
+
+[33mcommit 25908181b6593d32413108e1af49e3d87baa7db0[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Thu Jun 16 15:27:43 2022 -0300
+
+    funciona el listado de presupuestos
+    
+    qqq
+
+[33mcommit 104aa87f4b01cde42f79bef41c97295abe234392[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Tue Jun 14 18:45:14 2022 -0300
+
+    agregar presupusto funcional
+    
+    qwe
+
+[33mcommit 290b3123b0cb212834db0c1a2958f376c34e487b[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Tue Jun 14 18:07:26 2022 -0300
+
+    actualizando presupuestos
+
+[33mcommit 3e4a72d1cc814a411ed1413e94786c3c7dcc31bf[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Tue Jun 14 16:52:47 2022 -0300
+
+    Actualizacion a presupuestos.
+
+[33mcommit 94d091510f04f5d07345e4ef2c572fcf0052de69[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Thu Jun 9 15:25:12 2022 -0300
+
+    Agregado formulario de agregar producto.
+
+[33mcommit 2c52fa9b77033e6f38bf206ac2611bd0ec74e7b1[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Wed Jun 1 18:15:00 2022 -0300
+
+    Actualizados algunos redirects y creadas nuevas vistas
+
+[33mcommit 9a31f181a0dd482dc409e8d345ea6cde938b8be6[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Tue May 17 18:08:31 2022 -0300
+
+    ghost
+
+[33mcommit 33b2ceb9d8415c16c34096434d0f359571ddcfe2[m
+Author: Entropia-dev <54455913+Entropia-dev@users.noreply.github.com>
+Date:   Tue May 17 18:06:57 2022 -0300
+
+    Initial commit
